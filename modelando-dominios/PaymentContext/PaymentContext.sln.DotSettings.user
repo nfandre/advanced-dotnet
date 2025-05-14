@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12894e91_002Dabc7_002D401a_002D8ff8_002D4c420d19f7da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenCnpjIsInvalid #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.ValueObjects.DocumentTests.ShouldReturnErrorWhenCnpjIsInvalid&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19322b39_002Dff4b_002D4aae_002Dbee4_002D935a29632c5c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnErrorWhenCnpjIsInvalid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.ValueObjects.DocumentTests.ShouldReturnErrorWhenCnpjIsInvalid&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.ValueObjects.DocumentTests.ShouldReturnSuccessWhenCnpjIsValid&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.ValueObjects.DocumentTests.ShouldReturnErrorWhenCPFIsInvalid&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.ValueObjects.DocumentTests.ShouldReturnSuccessWhenCpfIsValid&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscription&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.Entities.StudentTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.Handler.SubscriptionHandlerTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::A10E97FC-4DD5-4A9C-91A4-CCD0CB376385::net8.0::PaymentContext.Tests.Queries.StudentQueriesTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

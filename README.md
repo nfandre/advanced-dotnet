@@ -22,7 +22,7 @@ Introdução
 - Fail Fast Validations
 - Testando os Commands
 - Repository Pattern |
-- Handlers |
+- Handlers (Manipuladores)
 - Testando os Handlers|
 - Queries
 - Testando suas Queries

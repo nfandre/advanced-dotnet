@@ -20,4 +20,9 @@ public class Name : ValueObject
             .IsLowerThan(FirstName, 40, "Name.FirstName", "Nome deve conter até 40 caracteres")
         );
     }
+    
+    public override string ToString()
+    {
+        return $"{FirstName} {LastName}";
+    }
 }
